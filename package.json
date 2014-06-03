@@ -1,0 +1,12 @@
+{
+  "name": "authapi",
+  "description": "A sample app providing a mock token-based authentication API",
+  "version": "0.0.1",
+  "private": true,
+  "main": "server.js",
+  "dependencies": {
+    "express": "4.4.1",
+    "fs": "lastest"
+  }
+}
+
