@@ -5,8 +5,7 @@
   "private": true,
   "main": "server.js",
   "dependencies": {
-    "express": "4.4.1",
-    "fs": "lastest"
+    "express": "4.4.1"
   }
 }
 
